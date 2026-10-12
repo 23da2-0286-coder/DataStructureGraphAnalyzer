@@ -2,7 +2,7 @@ package datastructures;
 
 import java.util.Arrays;
 
-public class Member1Demo {
+public class TestMember1 {
 
     public static void main(String[] args) {
 
